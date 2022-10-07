@@ -1,0 +1,15 @@
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.deps.json
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.runtimeconfig.json
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.runtimeconfig.dev.json
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.dll
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/bin/Debug/net5.0/ref/donguler-for-loop.dll
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.pdb
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.csproj.AssemblyReference.cache
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.AssemblyInfoInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.AssemblyInfo.cs
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.csproj.CoreCompileInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.dll
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/obj/Debug/net5.0/ref/donguler-for-loop.dll
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.pdb
+/Users/ecekokyar/Desktop/Pratikler/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.genruntimeconfig.cache
